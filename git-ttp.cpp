@@ -5,4 +5,6 @@ int main()
 {
 	cout << "Hello World!\n";
 	cout << "Hello Gid\n";
+	cout << "Hello Gid\n";
+	cout << "Hello Gid\n";
 }
